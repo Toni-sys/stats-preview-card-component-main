@@ -10,6 +10,7 @@ Description: Mobile First UI Challenge only HTML & CSS(Flexbox, Responsive Desig
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Desarrollador en Agencia Jeemdev](https://www.jeemdev.com)
+- Behance - [Diseñador en Agencia Jeemdev] [https://www.behance.net/agencia_jeemdev]
+- Instagram - [@_tony_hdz]
+- Git Hub - [@Tony-sys](https://github.com/Toni-sys)
