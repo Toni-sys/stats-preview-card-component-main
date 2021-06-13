@@ -11,5 +11,4 @@ Description: Mobile First UI Challenge only HTML & CSS(Flexbox, Responsive Desig
 
 - Website - [Desarrollador en Agencia Jeemdev](https://www.jeemdev.com)
 - Behance - [Diseñador en Agencia Jeemdev](https://www.behance.net/agencia_jeemdev)
-- Instagram - [@_tony_hdz](My Instagram)
 - Git Hub - [@Tony-sys](https://github.com/Toni-sys)
