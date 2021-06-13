@@ -4,8 +4,7 @@ Description: Mobile First UI Challenge only HTML & CSS(Flexbox, Responsive Desig
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://toni-sys.github.io/stats-preview-card-component-main/
 
 
 ## Author
