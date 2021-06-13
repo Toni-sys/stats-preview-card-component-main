@@ -1,4 +1,7 @@
-# Frontend Mentor - Stats preview card component
+# My UI Challenges | Mobile First | Stats preview card component
+
+Description: Mobile First UI Challenge only HTML & CSS(Flexbox, Responsive Design, animations)
+
 
 ## The challenge
 
