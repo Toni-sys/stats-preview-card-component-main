@@ -1,15 +1,19 @@
+/*-- **INFORMATION**
+The designs were created to the following widths:
+- Mobile: 375px
+- Desktop: 1440px
+--*/
+
+/*=============================================
+=     HEADER SECTION | ROOT & IMPORTS            =
+=============================================*/
+
+/*----------  START SUBSECTION | Google Fonts   ----------*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
 
-*,
-*::before,
-*::after {
-    margin    : 0;
-    padding   : 0;
-    box-sizing: border-box;
-}
 
+/*----------  START SUBSECTION | Global Variables   ----------*/
 :root {
-
     /*-- Primary Colors --*/
     --color-main-bg       : hsl(233, 47%, 7%);
     --color-main-bg-card  : hsl(244, 38%, 16%);
@@ -24,6 +28,19 @@
     /*-- Font Size --*/
     --font-size-title     : 24px;
     --font-size-text      : 15px;
+}
+
+/*============ FOOTER SECTION | ROOT & IMPORTS =========*/
+
+/*=============================================
+=             START SECTION | CODE           =
+=============================================*/
+*,
+*::before,
+*::after {
+    margin    : 0;
+    padding   : 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -70,8 +87,8 @@ img {
     top           : 0;
     left          : 0;
     z-index       : -1 !important;
-    filter        : brightness(70%) contrast(120%);
-    -webkit-filter: brightness(70%) contrast(120%);
+    filter        : brightness(100%) contrast(120%);
+    -webkit-filter: brightness(100%) contrast(120%);
 }
 
 .card_info-container {
@@ -110,10 +127,14 @@ img {
 }
 
 .card_data-container .card_data-info .card_data-text {
-    color: var(--color-stat-heading);
+    color         : var(--color-stat-heading);
     text-transform: uppercase;
 }
+/*=====  END OF SECTION CODE  ======*/
 
+/*=============================================
+=       START SECTION | MEDIA QUERY           =
+=============================================*/
 @media only screen and (min-width: 760px) {
     .card_container {
         margin: 5rem 7rem;
@@ -167,7 +188,7 @@ img {
     .card_info-container>p {
         padding-bottom: 5rem;
         padding-right : 2rem;
-        line-height: 1.7rem;
+        line-height   : 1.7rem;
         font-size     : 18px;
     }
 
@@ -181,13 +202,15 @@ img {
     }
 
     .card_data-container .card_data-info .card_data-title {
-        font-size  : 26px;
+        font-size     : 26px;
         padding-bottom: .5rem;
     }
 
     .card_data-container .card_data-info .card_data-text {
-        color: var(--color-stat-heading);
+        color         : var(--color-stat-heading);
         letter-spacing: .1rem;
-        font-size: 14px;
+        font-size     : 14px;
     }
+
+    /*=====  END OF SECTION MEDIA QUERY  ======*/
 }
