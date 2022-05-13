@@ -10,13 +10,7 @@
 ## Links
 
 🌐- Solution URL: [Repository](https://github.com/antoni-codes/Web-Mobile-First-Stats-Preview-Card-Component)
-🌐- Live Site URL: [Live Site]()
-
-
-### Links
-
-- Solution URL: [Repository](https://github.com/Toni-sys/Web-Desktop-First-3-Column-Preview-card-Component)
-- Live Site URL: [Live Site]()
+🌐- Live Site URL: [Live Site](https://antoni-codes.github.io/Web-Mobile-First-Stats-Preview-Card-Component/)
 
 
 ## Author
